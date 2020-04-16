@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">mx1fi</string>
+    <string name="usuario">Nombre de Usuario:</string>
+    <string name="contra">Contraseña:</string>
+    <string name="logo">TODO</string>
+    <string name="resg">Registrar</string>
+    <string name="ing">Ingresar</string>
+    <string name="Res">Resgistro</string>
+    <string name="ape">Apellidos:</string>
+    <string name="CorreUS">Correo Electronico:</string>
+    <string name="tel">Telefono:</string>
+    <string name="nomUsario">Nombre de Usuario:</string>
+    <string name="resUS">Regresar</string>
+    <string name="IngUS">Registrar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="title_activity_usuariomen">usuariomen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_usuariomenu">usuariomenu</string>
+</resources>
